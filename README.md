@@ -5,7 +5,7 @@
 A simple, client-side tool for interactively visualizing the relative physical scale of different computer monitor sizes.
 
 > **TODO:** Add a high-quality screenshot or GIF of the application in action here!
-
+![demo]("./assets/usage_image.gif")
 ---
 
 ## Why does this exist?
