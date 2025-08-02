@@ -4,8 +4,7 @@
 
 A simple, client-side tool for interactively visualizing the relative physical scale of different computer monitor sizes.
 
-> **TODO:** Add a high-quality screenshot or GIF of the application in action here!
-
+<!-- ![demo]("./assets/usage gif.gif") -->
 ---
 
 ## Why does this exist?
@@ -75,9 +74,11 @@ Now, open your web browser and navigate to **`http://localhost:5173`** (or whate
 This is a simple tool, but it could be even better. Pull Requests are welcome!
 
 -   [ ] Add an input for monitor bezel size for a more realistic comparison.
--   [ ] Create a "share" button that generates a URL with the current monitor configuration saved.
+-   [ ] Include the option for users to upload a picture of work desk as a backgroun overlay in canvas for a realisic comparison
+-   [ ] Create a "share" button that generates a URL with the current monitor configuration saved. With a PNG?
 -   [ ] A library of presets for popular monitor models (e.g., "Dell UltraSharp U2723QE").
 -   [ ] Add an option to display dimensions in centimeters.
+-   [ ] Include PPI numbers and resolution for each monitor configuration
 -   [ ] Implement panning the canvas itself, in addition to zooming.
 
 ## ⚖️ License
