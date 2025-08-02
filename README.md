@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-A simple, client-side tool for interactively visualizing the relative physical scale of different computer monitor sizes.
+A simple, client-side tool for interactively visualizing the relative physical scale of different computer monitor sizes. [link] (https://throw-away-qq.github.io/ScreenScape/)
 
 <!-- ![demo]("./assets/usage gif.gif") -->
 ---
@@ -58,7 +58,7 @@ To run this project locally, you'll need [Node.js](https://nodejs.org/en/) (v16 
 Now, open your web browser and navigate to **`http://localhost:5173`** (or whatever port Vite indicates in the terminal).
 
 ## 🎮 How to Use the Tool
-
+- 
 -   **The Sandbox:** The large area at the top is your visualization canvas. The monitors shown here are to scale relative to one another.
 -   **The Control Panels:** The panels at the bottom correspond to Monitors A, B, C, and D.
     -   Use the **toggle switch** to enable or disable a monitor.
