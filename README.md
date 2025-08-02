@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-A simple, client-side tool for interactively visualizing the relative physical scale of different computer monitor sizes. [link] (https://throw-away-qq.github.io/ScreenScape/)
+A simple, client-side tool for interactively visualizing the relative physical scale of different computer monitor sizes. [!link] (https://throw-away-qq.github.io/ScreenScape/)
 
 <!-- ![demo]("./assets/usage gif.gif") -->
 ---
